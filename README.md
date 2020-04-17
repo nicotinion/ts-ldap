@@ -1,4 +1,4 @@
-LDAPts
+ts-ldap
 ======
 
 [![NPM version](https://img.shields.io/npm/v/ldapts.svg?style=flat)](https://npmjs.org/package/ldapts)
